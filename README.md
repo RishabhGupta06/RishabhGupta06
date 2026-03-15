@@ -29,7 +29,7 @@ Designed a command-line logic game implementing algorithmic code generation and 
 
 ## Competitive Programming
 * **LeetCode:** Achieved a Max Rating of 1400+ (RPGCODE06).
-* **CodeForces:** Active participant (Max Rating: 580, Newbie).
+* **CodeForces:** Active participant (Max Rating: 800, Newbie).
 
 ## Let's Connect
 * **Email:** rishabhgp06@gmail.com
