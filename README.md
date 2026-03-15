@@ -35,4 +35,4 @@ Designed a command-line logic game implementing algorithmic code generation and 
 * **Email:** rishabhgp06@gmail.com
 * **LinkedIn:** [Rishabh Gupta06](https://linkedin.com/in/Rishabh-Gupta06)
 * **GitHub:** [RishabhGupta06](https://github.com/RishabhGupta06)
-* **LeetCode:** [RishabhGupta06](https://github.com/RishabhGupta06)
+* **LeetCode:** [RishabhGupta06]([https://github.com/RishabhGupta06](https://leetcode.com/u/RPGCODE06/))
